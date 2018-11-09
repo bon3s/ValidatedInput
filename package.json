@@ -1,0 +1,22 @@
+{
+  "name": "@bon3s/input-validation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Validated text/number input",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bon3s/ValidatedInput.git"
+  },
+  "keywords": [
+    "validation"
+  ],
+  "author": "msuvala",
+  "bugs": {
+    "url": "https://github.com/bon3s/ValidatedInput/issues"
+  },
+  "homepage": "https://github.com/bon3s/ValidatedInput#readme"
+}
